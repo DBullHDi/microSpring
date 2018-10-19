@@ -1,0 +1,3 @@
+#check configServer project to know from where to replace the values for words
+words: I,You,He,She,It
+server.port: ${PORT:${SERVER_PORT:0}}
